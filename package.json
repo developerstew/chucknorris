@@ -1,0 +1,12 @@
+{
+  "name": "chucknorris",
+  "version": "1.0.0",
+  "description": "App that displays chuck norris jokes",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "Dewald Greeff",
+  "license": "MIT"
+}
