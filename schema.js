@@ -1,9 +1,4 @@
-const {
-  GraphQLObjectType,
-  GraphQLList,
-  GraphQLString,
-  GraphQLSchema,
-} = require('graphql');
+const { GraphQLObjectType, GraphQLString, GraphQLSchema } = require('graphql');
 const axios = require('axios');
 
 // Joke at all categories
